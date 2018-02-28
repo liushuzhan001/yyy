@@ -1,0 +1,14 @@
+{
+    "name": "liushuzhan001/yyy",
+    "description": "rr",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "rr",
+            "email": "ww@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
