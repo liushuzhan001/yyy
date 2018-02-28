@@ -10,5 +10,23 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload":
+        {
+            "files":[
+                "core/function.php"
+
+            ],
+            "psr-4":
+            {
+                "core\\": "core",
+                "web\\": "web"
+            }
+        },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
 }
